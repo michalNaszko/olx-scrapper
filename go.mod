@@ -1,4 +1,4 @@
-module OLX-SCRAPPER
+module github.com/michalNaszko/olx-scrapper
 
 go 1.20
 
